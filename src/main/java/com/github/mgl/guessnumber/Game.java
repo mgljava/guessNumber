@@ -9,6 +9,6 @@ public class Game {
   }
 
   public String guess(Answer inputAnswer) {
-    return null;
+    return "0A0B";
   }
 }
